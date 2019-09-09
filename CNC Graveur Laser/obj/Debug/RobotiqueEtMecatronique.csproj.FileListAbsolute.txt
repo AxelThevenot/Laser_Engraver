@@ -1,0 +1,62 @@
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe.config
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.pdb
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csprojResolveAssemblyReference.cache
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Properties.Resources.resources
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csproj.GenerateResource.Cache
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.exe
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.pdb
+c:\users\axel\documents\visual studio 2015\Projects\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Interface.resources
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe.config
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Interface.resources
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Properties.Resources.resources
+C:\Users\Julien\Downloads\RobotiqueEtMecatronique (2)\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csproj.GenerateResource.Cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe.config
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Interface.resources
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Properties.Resources.resources
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique3\RobotiqueEtMecatronique\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csproj.GenerateResource.Cache
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe.config
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Interface.resources
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Properties.Resources.resources
+C:\Users\Julien\Downloads\RobotiqueEtMecatroniquelast\RobotiqueEtMecatroniquelast\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csproj.GenerateResource.Cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe.config
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe.manifest
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.application
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\bin\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Interface.resources
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.Properties.Resources.resources
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csproj.GenerateResource.Cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.exe.manifest
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.application
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\RobotiqueEtMecatronique\obj\Debug\RobotiqueEtMecatronique.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\bin\Debug\RobotiqueEtMecatronique.exe.config
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\bin\Debug\RobotiqueEtMecatronique.exe.manifest
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\bin\Debug\RobotiqueEtMecatronique.application
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\bin\Debug\RobotiqueEtMecatronique.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\bin\Debug\RobotiqueEtMecatronique.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.Interface.resources
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.Properties.Resources.resources
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.csproj.GenerateResource.Cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.exe.manifest
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Dieu\obj\Debug\RobotiqueEtMecatronique.application
